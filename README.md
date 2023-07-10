@@ -1,10 +1,10 @@
 # Projet3-OpenClassrooms
 Concevez une application au service  de la santé publique
-# Problématique
+## Problématique
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation.Mission
 Nettoyer et analyser le jeu de données Open Food Facts pour proposer une application au service de la santé publique.
 
-# Idée d'application
+## Idée d'application
 Le Reflux GastroOesophagien (RGO): Calcul d'un score_RGO par produit.
 Nous avons tous ressenti au moins une fois dans notre vie une remontée de liquide acide de l'estomac dans l’œsophage et parfois dans la bouche surtout après un repas copieux = c’est un reflux gastro-œsophagien (RGO).
 
